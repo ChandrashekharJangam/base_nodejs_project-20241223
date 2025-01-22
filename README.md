@@ -16,10 +16,10 @@ Sample basic Node.js project setup with some dev dependencies
 npm install
 ```
 
-## To run
+## To run (for development)
 
 ```
-node src/index.mjs
+npm run dev
 ```
 
 ## Lint
